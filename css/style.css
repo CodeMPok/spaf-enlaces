@@ -17,8 +17,9 @@ body{
 
 .enlaces{
     text-align: center;
-    margin-top:20%;
-    margin-bottom: 35%;
+    margin-top:10%;
+    margin-bottom: 11%;
+    margin-right: 15%;
 }
 
 .enlaces-list{
@@ -54,4 +55,19 @@ body{
     text-align: center;
     margin-top: 26%;
     margin-right: 5%;
+}
+
+.foot{
+    text-align: center;
+}
+
+.logo-footer{
+    width: 15%;
+    filter: brightness(10);
+}
+
+.version{
+    color: white;
+    text-align: center;
+    font-size: 9px;
 }
