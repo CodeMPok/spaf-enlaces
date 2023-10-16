@@ -11,7 +11,7 @@ body{
 
 .logo-spaf{
     margin-top: 30%;
-    width: 40%;
+    width: 25%;
     margin-right: 5%;
 }
 
@@ -24,30 +24,31 @@ body{
 
 .enlaces-list{
     text-align: center;
+    display: grid;
 }
 
 .item-img-wpp{
-    width: 90%;
+    width: 60%;
     margin: 5%;
 }
 
 .item-img-ig{
-    width: 65%;
+    width: 45%;
     margin: 5%;
 }
 
 .item-img-fb{
-    width: 65%;
+    width: 45%;
     margin: 5%;
 }
 
 .item-img-web{
-    width: 40%;
+    width: 27%;
     margin: 5%;
 }
 
 .item-img-ubi{
-    width: 65%;
+    width: 45%;
     margin: 5%;
 }
 
@@ -83,5 +84,5 @@ body{
 .version{
     color: white;
     text-align: center;
-    font-size: 9px;
+    font-size: 11px;
 }
