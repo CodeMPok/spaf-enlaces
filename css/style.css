@@ -1,0 +1,57 @@
+body{
+    background-image: url(../assets/img/FONDO.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.logo{
+    text-align: center;
+}
+
+.logo-spaf{
+    margin-top: 30%;
+    width: 40%;
+    margin-right: 5%;
+}
+
+.enlaces{
+    text-align: center;
+    margin-top:20%;
+    margin-bottom: 35%;
+}
+
+.enlaces-list{
+    text-align: center;
+}
+
+.item-img-wpp{
+    width: 90%;
+    margin: 5%;
+}
+
+.item-img-ig{
+    width: 65%;
+    margin: 5%;
+}
+
+.item-img-fb{
+    width: 65%;
+    margin: 5%;
+}
+
+.item-img-web{
+    width: 40%;
+    margin: 5%;
+}
+
+.item-img-ubi{
+    width: 65%;
+    margin: 5%;
+}
+
+.ubicacion{
+    text-align: center;
+    margin-top: 10%;
+    margin-right: 5%;
+}
